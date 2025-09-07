@@ -1,0 +1,87 @@
+{
+  "toc": {
+    "name": "Theory of Computation",
+    "links": [
+      {
+        "title": "TOC Notes M1-M5",
+        "url": "https://example.com/notes/toc-m1-m5.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      },
+      {
+        "title": "Automata Quick Reference",
+        "url": "https://example.com/notes/toc-automata-cheatsheet.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  "ai": {
+    "name": "Artificial Intelligence",
+    "links": [
+      {
+        "title": "AI Notes Module 1-5",
+        "url": "https://example.com/notes/ai-m1-m5.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      },
+      {
+        "title": "Search Algorithms Summary",
+        "url": "https://example.com/notes/ai-search-summary.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  "sepm": {
+    "name": "Software Engineering Project Management",
+    "links": [
+      {
+        "title": "SEPM Notes Module 1-5",
+        "url": "https://example.com/notes/sepm-m1-m5.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      },
+      {
+        "title": "Agile & SDLC Overview",
+        "url": "https://example.com/notes/sepm-agile-sdlc.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  "cn": {
+    "name": "Computer Networks",
+    "links": [
+      {
+        "title": "CN Notes Module 1-5",
+        "url": "https://example.com/notes/cn-m1-m5.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      },
+      {
+        "title": "OSI vs TCP/IP Cheat Sheet",
+        "url": "https://example.com/notes/cn-osi-tcpip.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  "rm": {
+    "name": "Research Methodology",
+    "links": [
+      {
+        "title": "RM Notes Module 1-5",
+        "url": "https://example.com/notes/rm-m1-m5.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      },
+      {
+        "title": "Sampling Techniques Summary",
+        "url": "https://example.com/notes/rm-sampling-techniques.pdf",
+        "addedBy": "admin",
+        "addedAt": "2025-01-01T00:00:00.000Z"
+      }
+    ]
+  }
+}
